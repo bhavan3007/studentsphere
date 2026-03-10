@@ -1,6 +1,6 @@
 # StudentSphere 🎓
 
-A student management dashboard built with React.js — fully frontend, no backend required.
+A student management dashboard built with React.js — fully frontend
 
 ## Features
 - ✅ Dashboard with stats & grade distribution
@@ -14,32 +14,6 @@ A student management dashboard built with React.js — fully frontend, no backen
 - ✅ Fully mobile responsive
 - ✅ Analytics & Settings pages
 
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-
-# Build for production
-npm run build
-```
-
-## Deploy to Vercel
-
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → New Project
-3. Import your GitHub repo
-4. Click **Deploy** — that's it!
-
-## Deploy to Netlify
-
-1. Push this repo to GitHub
-2. Go to [netlify.com](https://netlify.com) → New site from Git
-3. Select repo, set build command: `npm run build`, publish dir: `build`
-4. Click **Deploy**
 
 ## Project Structure
 
